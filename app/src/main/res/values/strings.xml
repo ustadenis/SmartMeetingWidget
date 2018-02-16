@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">StartMeetingWidget</string>
+    <string name="get_valid_emails">Get valid emails</string>
+</resources>
