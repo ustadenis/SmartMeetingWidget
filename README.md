@@ -1,3 +1,3 @@
 # SmartMeetingWidget
 
-![Screenshot](/screenshots/Screenshot_20180216-233947.png){:height="50%" width="50%"}
+![Screenshot](/screenshots/Screenshot_20180216-233947.png | width=48)
